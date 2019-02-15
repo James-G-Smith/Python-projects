@@ -31,13 +31,11 @@ token and access token secret. Copy these.
 
 """
 
-f = open("C:/Users/james/OneDrive/Projecting Success/Twitter keys/Twitter_keys.txt", "r",encoding='utf-8').read().split(",")
-
 # adding our authentication information
-consumer_key = (f[0])
-consumer_secret = (f[1])
-access_token = (f[2])
-access_secret = (f[3])
+consumer_key = ()
+consumer_secret = ()
+access_token = ()
+access_secret = ()
 
 # creating our API object
 auth = OAuthHandler(consumer_key, consumer_secret)
@@ -53,9 +51,9 @@ There are different ways to retrieve tweets in Python. We are using the
 """
 
 # getting tweets from a specific user
-name = 'realDonaldTrump'
-tweet_count = 1000
-language = 'english'
+name = 
+tweet_count = 
+language = 
 
 user_tweets = []
 for tweet in tweepy.Cursor(api.user_timeline, id=name, lang=language, count=tweet_count, tweet_mode='extended').items(1000):
