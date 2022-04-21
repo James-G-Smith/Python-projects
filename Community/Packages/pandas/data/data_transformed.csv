@@ -1,0 +1,7 @@
+,Sentence,Positive/Negative,Confidence,first word,Concat
+0,the beer was good,positve,50%,the,the beer was good - positve
+1,I do not enjoy my job,negative,50%,I,I do not enjoy my job - negative
+2,I ain't feeling dandy today.,negative,50%,I,I ain't feeling dandy today. - negative
+3,I feel amazing!,positve,50%,I,I feel amazing! - positve
+4,Gary is a friend of mine.,positve,50%,Gary,Gary is a friend of mine. - positve
+5,I can't believe I'm doing this.,negative,50%,I,I can't believe I'm doing this. - negative

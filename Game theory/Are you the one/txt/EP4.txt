@@ -1,0 +1,16 @@
+EP4
+
+Asaf and Tori no match
+
+#Gio Kaylen
+#Cam Emma
+#Asaf Camille
+#John Victoria
+#Prosper Nicole
+#Sam Alyssa
+#Cameron Mikala
+#Morgan Tori
+#Stephen Julia
+#Tyler Francesca
+
+beams = 4
