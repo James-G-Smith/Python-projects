@@ -9,6 +9,3 @@ class roman_tools:
             else:
                 int_val += rom_val[r[i]]
         return int_val
-
-    def square_roman(r):
-        return int_val^2
