@@ -1,3 +1,4 @@
-from roman_to_int import roman_to_int
+from roman_to_int import roman_to_int as rti
+
 def test_roman_to_int():
-    assert roman_to_int.roman_to_int("MDCLXVI") == 1666
+    assert rti.roman_tools().roman_to_int("MDCLXVI") == 1666
