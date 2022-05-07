@@ -1,7 +1,7 @@
 Metadata-Version: 1.0
 Name: roman-to-int
 Version: 0.0.5
-Summary: An aplication that converts roman numerals to integers
+Summary: An module that converts roman numerals to integers
 Home-page: UNKNOWN
 Author: James
 Author-email: UNKNOWN
