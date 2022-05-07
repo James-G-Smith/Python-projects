@@ -6,7 +6,7 @@ class roman_tools:
         int_val = 0
         #for loop to iterate through roman numeral
         for i in range(len(r)):
-            #if statement to decide if vales are bigger than each other
+            #if statement to decide if values are bigger than each other
             if i > 0 and rom_val[r[i]] > rom_val[r[i - 1]]:
                 int_val += rom_val[r[i]] - 2 * rom_val[r[i - 1]]
             else:
